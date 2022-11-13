@@ -12,10 +12,7 @@ Documentation and tutorials are available on [https://mufpga.github.io/](https:/
 
 <img src="https://raw.githubusercontent.com/mufpga/mufpga.github.io/main/img/figs/G_overview.png" alt="Overview"/>
 
-<!---
 
 ## Cite us
-
-Deschamps J, Kieser C, Hoess P, Deguchi T and Ries J, 
-
---->
+Joran Deschamps, Christian Kieser, Philipp Hoess, Takahiro Deguchi, Jonas Ries, "MicroFPGA: an affordable FPGA platform for microscope control",
+bioRxiv 2022.06.07.495178.
